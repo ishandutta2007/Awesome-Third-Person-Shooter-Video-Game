@@ -59,9 +59,9 @@ Below is a breakdown of top commercial third-person shooter games, live-service 
 
 ## 💻 Open-Source GitHub Projects
 
-Open-source third-person shooter repositories, game engine frameworks, and character controllers, sorted by GitHub Star Count (descending) 🌟.
+Open-source third-person shooter repositories, game engine frameworks, and character controllers, sorted by GitHub Stars_Count (descending) 🌟.
 
-| Project & Repo Star Badge 🏅 | Stars ⭐ | Primary Tech Stack 🛠️ | Description & Features 📌 |
+| Project & Repo Stars_Badge 🏅 | GitHub_Stars ⭐ | Primary Tech Stack 🛠️ | Description & Features 📌 |
 | :--- | :--- | :--- | :--- |
 | **[Godot Engine](https://github.com/godotengine/godot)** [![Stars](https://img.shields.io/github/stars/godotengine/godot?style=social&color=white)](https://github.com/godotengine/godot/stargazers) | **85,000+** | C++, GDScript | Feature-packed open-source 2D/3D game engine. Provides the underlying architecture for top open-source TPS demos. |
 | **[Godot Third Person Shooter Demo](https://github.com/godotengine/tps-demo)** [![Stars](https://img.shields.io/github/stars/godotengine/tps-demo?style=social&color=white)](https://github.com/godotengine/tps-demo/stargazers) | **1,400+** | GDScript, Godot Engine | **Official Godot Engine TPS reference implementation**. High-quality 3D assets, PBR materials, dynamic lighting, and character controller. |
@@ -84,7 +84,7 @@ Contributions are warmly welcomed! Help make this the most comprehensive Third-P
 
 1. **Fork** the repository 🍴
 2. **Add/Edit** entries in `README.md` following the table format 📝
-3. Ensure entries include project name, link, star badge, accurate pricing/metrics, and description.
+3. Ensure entries include project name, link, Stars_Badge, accurate pricing/metrics, and description.
 4. **Submit a Pull Request** with a clear explanation of your additions 🚀
 
 ---
